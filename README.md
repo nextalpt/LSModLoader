@@ -2,22 +2,22 @@
 [![](https://img.shields.io/github/downloads/piotrulos/MSCModLoader/total.svg?style=flat-square)](#) 
 [![](https://img.shields.io/github/license/piotrulos/MSCModLoader.svg?style=flat-square)](#) 
 
-# MSCLoader
-A mod loader for My Summer Car 
+# LSLoader
+A mod loader for Landlord's Super
 
-Please report any issues and ideas [here](https://github.com/piotrulos/MSCModLoader/issues)
+Please report any issues and ideas [here](https://github.com/nextalpt/LSModLoader/issues)
 
 **Example Mods** - this folder contains example mods source files (see documentation how to use them)  
 **Visual Studio templates** - this folder contains templates for Visual Studio for easy mod creation. (see documentation how to use them)  
 ## Documentation
-A documentation for MSCLoader is avaliable [here](https://github.com/piotrulos/MSCModLoader/wiki) (for modders and users)  
+A documentation for LSLoader isn't available, but you can use the MSCLoader docs [here](https://github.com/piotrulos/MSCModLoader/wiki) (for modders and users)  
 
 ## Installation
-1. Download the latest release of MSCLoader from [here](https://github.com/piotrulos/MSCModLoader/releases)
+1. Download the latest release of LSLoader from [here](https://github.com/nextalpt/LSModLoader/releases)
 2. Unpack anywhere you want **(DO NOT unpack into any game folders)**
-3. Open MSCLInstaller.exe
-4. If MSC path wasn't found automatically, select path manually.
-5. Select "Install MSCLoader" and click "Select option" button
+3. Open LSLInstaller.exe
+4. If LS path wasn't found automatically, select path manually.
+5. Select "Install LSLoader" and click "Select option" button
 6. Select whatever path you want to be your Mods folder (Game Folder is recommended)
 7. Wait for install to finish
 8. Unpack downloaded mods in the Mods folder you selected and you are ready!
